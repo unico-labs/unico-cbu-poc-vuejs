@@ -2,11 +2,6 @@
 import { ref } from 'vue'
 import { UnicoSDK } from 'idpay-b2b-sdk/index.js'
 
-const iframeVisivel = ref(false)
-const iniciarIframe = () => {
-  iframeVisivel.value = true
-}
-
 const token = ''; // Inserir o token do processo
 const processId = ''; // inserir o Id do processo
 
