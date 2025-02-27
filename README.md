@@ -36,7 +36,7 @@ Para conseguir executa-la é necessario ter uma conta de servico na Unico e um a
 
 Com essas informacoes voce deve passar dentro dos métodos Init e Open conforme abaixo e depois executar o npm start para iniciar a POC.
 
-Feito isso deve criar no botao de Init para iniciar a autenticacao e depois no Open para abrir o processo e inciar o fluxo By Unico.
+Feito isso deve clicar no botao de Init para iniciar a autenticacao e depois no Open para abrir o processo e inciar o fluxo By Unico.
 
 
 ## ✨ Metodos disponiveis
