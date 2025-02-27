@@ -4,13 +4,13 @@
   </a>
 </p>
 
-<h1 align='center'>SDK Iframe</h1>
+<h1 align='center'>SDK Unico</h1>
 
 <div align='center'>
   
-  ### POC de implementação do SDK IDpay CBU em VueJs
+  ### POC de implementação do SDK CBU em VueJs
   
-  <img width='350' src='https://cdn.iconscout.com/icon/free/png-256/free-vuejs-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175052.png'></img>
+  <img width='250' src='https://cdn.iconscout.com/icon/free/png-256/free-vuejs-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175052.png'></img>
 </div>
 
 ## 💻 Compatibilidade
