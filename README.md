@@ -10,7 +10,7 @@
   
   ### POC de implementação do SDK IDpay CBU em VueJs
   
-  <img width='350' src='https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png](https://cdn.iconscout.com/icon/free/png-256/free-vuejs-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175052.png'></img>
+  <img width='350' src='https://cdn.iconscout.com/icon/free/png-256/free-vuejs-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175052.png'></img>
 </div>
 
 ## 💻 Compatibilidade
